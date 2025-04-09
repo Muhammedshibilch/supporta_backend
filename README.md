@@ -12,7 +12,7 @@ This guide will help you set up and run this project on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/Muhammedshibilch/supporta_backend.git
    cd project-name
    ```
 
